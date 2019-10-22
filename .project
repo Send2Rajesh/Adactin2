@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
-	<name>Haree</name>
-	<comment></comment>
+<?xml veron="1coding="UTF-8"?>
+<projectDescrition>
+	<name>e</name>
+	<coen></comment>
 	<projects>
-	</projects>
+	</prects>
 	<buildSpec>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
+			<ments>
+			<uments>
 		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
-			</arguments>
+			</auments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.s.javanature</nature>
+		<natuorg.eclipseore.maven2Nature</nature>
 	</natures>
 </projectDescription>
